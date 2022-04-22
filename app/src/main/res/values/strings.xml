@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Penduduk App</string>
+    <string name="job">Pekerjaan</string>
+    <string-array name="pekerjaan">
+        <item>Pekerjaan</item>
+        <item>Pegawai Negeri Sipil</item>
+        <item>Pegawai Swasta</item>
+        <item>Pelajar</item>
+        <item>Wiraswasta</item>
+    </string-array>
+</resources>
